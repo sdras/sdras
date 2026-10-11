@@ -1,4 +1,4 @@
-## Sup Nerds ⌑
+## Comprehension over Configuration ⌑
 
 I like making things, I'm a fairly curious person. 
 
